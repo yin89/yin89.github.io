@@ -14,4 +14,4 @@ I am a guy lives in Hubei Province, China and interested in coding.
 
 ### Contact
 
-Contact me via QQ[1045304904](http://wpa.qq.com/msgrd?v=3&uin=1045304904&site=qq&menu=yes) \(__WeChat also__\) and nice to meet you.
+Contact me via QQ\(__WeChat also__\)[1045304904](http://wpa.qq.com/msgrd?v=3&uin=1045304904&site=qq&menu=yes) and nice to meet you.
