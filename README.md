@@ -6,11 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Emoji
 
-```markdown
-![Image](https://i.ibb.co/yRyCX7L/5540e3f50d87832b.gif)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Image](https://i.ibb.co/yRyCX7L/5540e3f50d87832b.gif)
 
 ### Infos
 
@@ -18,4 +14,7 @@ I am a guy lives in Hubei Province, China and interested in coding :).
 
 ### Contact
 
+
+```markdown
 Contact me with [QQ :1045304904](tencent://Message/?Uin=1045304904) and nice to meet you.
+```
