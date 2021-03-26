@@ -1,37 +1,21 @@
-## Welcome to My Page
+## Welcome to My Page :)
 
-You can use the [editor on GitHub](https://github.com/yin89/yin89.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can click the [GitHub](https://github.com/yin89/) or [homepage](https://tamade.top) to visit me.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Emoji
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](https://i.ibb.co/yRyCX7L/5540e3f50d87832b.gif)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Infos
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yin89/yin89.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I am a guy lives in Hubei Province, China and interested in coding :).
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact me with [QQ :1045304904](tencent://Message/?Uin=1045304904) and nice to meet you.
