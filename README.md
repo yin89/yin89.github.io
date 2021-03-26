@@ -1,4 +1,4 @@
-## :) Welcome to My Page 
+## Welcome to My Page :)
 
 You can click the [GitHub](https://github.com/yin89/) or [Personal Homepage](https://tamade.top) to visit me.
 
