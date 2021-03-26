@@ -16,5 +16,5 @@ I am a guy lives in Hubei Province, China and interested in coding :).
 
 
 ```markdown
-Contact me with [QQ :1045304904](tencent://Message/?Uin=1045304904) and nice to meet you.
+Contact me with [QQ :1045304904](tencent://Message/?Uin=1045304904) [WeChat also] and nice to meet you.
 ```
