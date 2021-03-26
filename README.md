@@ -1,8 +1,8 @@
 ## Welcome to My Page :)
 
-You can click the [GitHub](https://github.com/yin89/) or [Personal Homepage](https://tamade.top) to visit me.
+### ...
 
-### Emoji
+You can click the [GitHub](https://github.com/yin89/) or [Personal Homepage](https://tamade.top) to visit me.
 
 ![](https://i.ibb.co/yRyCX7L/5540e3f50d87832b.gif)
 
